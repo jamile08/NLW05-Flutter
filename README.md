@@ -32,3 +32,10 @@ Aula 03:
 - Criação e utilização de database local com arquivos .json
 
 - Criação e utilização de repository.
+
+Aula 04:
+
+- Gerenciamento de estados;
+- Criação de mais componentes;
+- Navegação entre telas;
+
