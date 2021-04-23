@@ -1,6 +1,7 @@
 # dev_quiz
 
 Projeto Flutter desenvolvido durante o evento Next level Week#05, oferecido pela Rocketseat.
+A proposta do aplicativo é oferecer questionários para o aprendizado do próprio Flutter. 
 
 ### Professor: 
 Gabriel Savil, conhecido na comunidade com Gabul Dev.
@@ -8,7 +9,7 @@ Gabriel Savil, conhecido na comunidade com Gabul Dev.
 ### Design:
 Tiago Luchtenberg.
 
-A proposta do aplicativo é oferecer questionários para o aprendizado do próprio Flutter. 
+
 
 # Temas Abordados:
 
